@@ -1,5 +1,5 @@
 <h1 align="center">Ola 👋, eu sou o Josoel Vieira</h1>
-<h3 align="center">Desenvolvedor front-end alto de data</h3>
+<h3 align="center">Desenvolvedor front-end autodidata</h3>
 
 - 🔭 Meu projeto em andamento **Tabacaria vitange**
 
