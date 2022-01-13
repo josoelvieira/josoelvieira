@@ -1,9 +1,7 @@
 <h1 align="center">Ola 👋, eu sou o  Josoel Vieira</h1>
 <h3 align="center">Desenvolvedor front-end autodidata</h3>
 
-- 🔭 Meu projeto em andamento **Tabacaria vitange**
-
-- 🌱 Atualmente cursando **curso na Udemy JavaScript e TypeScript**
+- 🌱 Atualmente cursando **curso na Udemy Next.js e React - Curso Completo 2021**
 
 - 👨‍💻 Todos os meus projetos github [http://github.com/josoelvieira](http://github.com/josoelvieira)
 
