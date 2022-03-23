@@ -1,15 +1,14 @@
 <h1 align="center">Ola 👋, eu sou o  Josoel Vieira</h1>
-<h3 align="center">Desenvolvedor front-end autodidata</h3>
+<h3 align="center">Desenvolvedor front-end</h3>
 
-- 🌱 Atualmente cursando **curso na Udemy Next.js e React - Curso Completo 2021**
+- 🌱 Atualmente cursando **Curso na udemy React + Redux: Fundamentos e 2 Apps do Absoluto ZERO! e 
+ Next.js e React - Curso Completo 2021**
 
 - 👨‍💻 Todos os meus projetos github [http://github.com/josoelvieira](http://github.com/josoelvieira)
 
 - 💬 Me pergunte **+5541998828433**
 
 - 📫Meu e-mail **cvl.jv1@gmail.com**
-
-- 📄Minhas experiencias estão aqui no portifolio [http://josoelvieira.github.io/portifolio](http://josoelvieira.github.io/portifolio)
 
 - ⚡ Inteligente **porem sarcástico**
 
