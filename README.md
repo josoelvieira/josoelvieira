@@ -1,7 +1,7 @@
 ### Oi 👋 eu sou Josoel Vieira
 Desenvovedor front-end apaixonado por techologia!
 
-- 🔭 Atualmente, estou estudando react.js e next.js (além disso, estou aprimorando minhas habilidades de estruturas de dados e algoritmos regularmente).
+- 🔭 Atualmente, estou estudando react.js e next.js!
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=josoelvieira)
